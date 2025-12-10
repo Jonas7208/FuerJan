@@ -1,6 +1,6 @@
-from Train_modell import remove_background_from_dataset
- remove_background_from_dataset(input_folder="/Users/jonasgasparini/Desktop/dataset",
-                                output_folder="Dataset-no-bg/train")
+#from Train_modell import remove_background_from_dataset
+#remove_background_from_dataset(input_folder="/Users/jonasgasparini/Desktop/dataset",
+#                                output_folder="Dataset-no-bg/train")
 
 
 
