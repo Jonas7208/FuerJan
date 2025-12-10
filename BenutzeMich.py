@@ -26,7 +26,7 @@ BATCH_SIZE = 32
 INITIAL_EPOCHS = 25
 FINE_TUNE_EPOCHS = 15
 LEARNING_RATE = 0.0001
-TRAIN_DIR = '/Users/jonasgasparini/Desktop/dataset'
+TRAIN_DIR = '/Users/jonasgasparini/Desktop/dataset/train'
 NUM_CLASSES = 6
 
 gpus = tf.config.list_physical_devices('GPU')
