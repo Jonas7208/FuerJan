@@ -22,5 +22,3 @@ def remove_background_from_dataset(input_folder, output_folder):
                     result.save(output_path)
 
     print("✔ Fertig! Alle Bilder inklusive Unterordner wurden verarbeitet.")
-remove_background_from_dataset(input_folder="/Users/jonasgasparini/PycharmProjects/garbage-classification-model/dataset",
-                               output_folder="/Users/jonasgasparini/Desktop/WithoutBG")
